@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  LogfileUtils.cpp
+  ssoipTX.cpp
+  ssoipTXLib.cpp
+     Creating library C:\Sujit\dsmart\smc\SMC PROJECT\Project\Stethoscope\ssoipTXLib\ssoipTXLib\Release\ssoipTXLib.lib and object C:\Sujit\dsmart\smc\SMC PROJECT\Project\Stethoscope\ssoipTXLib\ssoipTXLib\Release\ssoipTXLib.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 520 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ssoipTXLib.vcxproj -> C:\Sujit\dsmart\smc\SMC PROJECT\Project\Stethoscope\ssoipTXLib\ssoipTXLib\Release\ssoipTXLib.dll

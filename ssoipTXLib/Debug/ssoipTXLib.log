@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  LogfileUtils.cpp
+  ssoipTX.cpp
+  ssoipTXLib.cpp
+  Generating Code...
+     Creating library C:\Sujit\dsmart\smc\SMC PROJECT\Project\Stethoscope\ssoipTXLib\ssoipTXLib\Debug\ssoipTXLib.lib and object C:\Sujit\dsmart\smc\SMC PROJECT\Project\Stethoscope\ssoipTXLib\ssoipTXLib\Debug\ssoipTXLib.exp
+  ssoipTXLib.vcxproj -> C:\Sujit\dsmart\smc\SMC PROJECT\Project\Stethoscope\ssoipTXLib\ssoipTXLib\Debug\ssoipTXLib.dll
