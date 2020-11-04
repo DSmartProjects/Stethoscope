@@ -1,0 +1,2 @@
+C:\Sujit\dsmart\smc\SMC PROJECT\Project\Stethoscope\ssoipRXLib\ssoipRXLib\Debug\ssoipRXLib.dll
+C:\Sujit\dsmart\smc\SMC PROJECT\Project\Stethoscope\ssoipRXLib\ssoipRXLib\Debug\ssoipRXLib.pdb
